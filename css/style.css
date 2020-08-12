@@ -1,0 +1,22 @@
+html {
+  box-sizing: border-box;
+}
+
+*, ::after, ::before {
+  box-sizing: inherit;
+}
+
+.item{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+input{
+  color: green;
+}
+
+footer{
+  color: #ffffff;
+  background-color: yellow;
+}
